@@ -2,6 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Fatigue-Detection.iml" filepath="$PROJECT_DIR$/Fatigue-Detection.iml" group="Fatigue-Detection" />
+      <module fileurl="file://$PROJECT_DIR$/app/Fatigue-Detection-app.iml" filepath="$PROJECT_DIR$/app/Fatigue-Detection-app.iml" group="Fatigue-Detection/app" />
+      <module fileurl="file://$PROJECT_DIR$/omoshiroilib/Fatigue-Detection-omoshiroilib.iml" filepath="$PROJECT_DIR$/omoshiroilib/Fatigue-Detection-omoshiroilib.iml" group="Fatigue-Detection/omoshiroilib" />
+      <module fileurl="file://$PROJECT_DIR$/stmobile/Fatigue-Detection-stmobile.iml" filepath="$PROJECT_DIR$/stmobile/Fatigue-Detection-stmobile.iml" group="Fatigue-Detection/stmobile" />
       <module fileurl="file://$PROJECT_DIR$/Omoshiroi.iml" filepath="$PROJECT_DIR$/Omoshiroi.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/omoshiroilib/omoshiroilib.iml" filepath="$PROJECT_DIR$/omoshiroilib/omoshiroilib.iml" />
